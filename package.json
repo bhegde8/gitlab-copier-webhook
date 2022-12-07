@@ -19,12 +19,12 @@
     "argon2": "^0.24.1",
     "async-shelljs": "^0.1.4",
     "bluebird": "^3.5.3",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "connect-redis": "^4.0.3",
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.5",
     "dotenv": "^6.1.0",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "express-session": "^1.17.0",
     "express-swagger-generator": "^1.1.15",
     "express-ws": "^4.0.0",
@@ -42,7 +42,7 @@
     "pino": "^5.8.1",
     "redis": "^2.8.0",
     "redis-mock": "^0.47.0",
-    "swagger-express-middleware": "^1.1.1",
+    "swagger-express-middleware": "^4.0.2",
     "swagger-ui-express": "^4.1.2"
   },
   "devDependencies": {
